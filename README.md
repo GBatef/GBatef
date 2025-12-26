@@ -32,9 +32,9 @@
 
 ### 🛠️ Tech Stack & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,php,dart&perline=6" /><br/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,java,dart&perline=6" /><br/>
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,nodejs,vue,bootstrap,firebase&perline=6" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,r,docker,git,tensorflow&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,php,docker,git,tensorflow&perline=6" />
 </div>
 
 ---
