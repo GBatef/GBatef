@@ -39,7 +39,13 @@
 
 ---
 
-### 📊 My Activity
+<div align="center">
+  <img height="150" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" />
+</div>
+
+---
+
+
 
 <!-- 👾 Pacman Contribution Graph -->
 <picture>
@@ -52,8 +58,3 @@
     width="100%"/>
 </picture>
 
----
-
-<div align="center">
-  <img height="150" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" />
-</div>
