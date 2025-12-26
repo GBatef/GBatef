@@ -22,7 +22,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me 😁​
 - 🎓 Pursuing a degree in **Computer Science**
 - 💡 Passionate about scalable **Mobile & Web Apps**
 - 🔭 Currently improving **Flutter & Machine Learning**
