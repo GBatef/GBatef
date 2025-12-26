@@ -34,18 +34,12 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,php,dart&perline=6" /><br/>
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,nodejs,vue,bootstrap,firebase&perline=6" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle,docker,git,tensorflow&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,r,docker,git,tensorflow&perline=6" />
 </div>
 
 ---
 
 ### 📊 My Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GBatef&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBatef&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
-
-<br/>
 
 <!-- 👾 Pacman Contribution Graph -->
 <picture>
