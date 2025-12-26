@@ -22,7 +22,7 @@
 
 ---
 
-###  About Me 😁​
+###  About Me :)​
 - 🎓 Pursuing a degree in **Computer Science**
 - 💡 Passionate about scalable **Mobile & Web Apps**
 - 🔭 Currently improving **Flutter & Machine Learning**
@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools  ;)
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,java,dart&perline=6" /><br/>
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,nodejs,vue,bootstrap,firebase&perline=6" /><br/>
